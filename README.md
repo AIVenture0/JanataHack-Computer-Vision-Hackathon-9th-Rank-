@@ -1,7 +1,5 @@
-# JanataHack-Computer-Vision-Hackathon (21st Private Leaderboard Rank)
+# [JanataHack-Computer-Vision-Hackathon (21st Private Leaderboard Rank)](https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#LeaderBoard)
 
-
-# <center><font color='red'><b>JanataHack: Computer Vision Hackathon</b></font></center>
 
 ___
 
