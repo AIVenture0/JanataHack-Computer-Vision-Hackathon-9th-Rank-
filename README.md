@@ -47,6 +47,10 @@ In this problem, you will be working on __classifying vehicle images__ as either
 - Regular Transformation and data augmentation.
 - Used Fastai Densenet201 model.
 
+## Logsheet sample to track model progress
+
+<img src="https://raw.githubusercontent.com/AIVenture0/JanataHack-Computer-Vision-Hackathon-21st-Rank-/master/logsheet.jpg"/>
+
 ## Competition Result
 Rank:  21st on private LB
 [Check LeaderBoard Ranking](https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#LeaderBoard)
