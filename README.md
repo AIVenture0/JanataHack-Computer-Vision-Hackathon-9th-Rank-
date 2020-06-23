@@ -36,13 +36,17 @@ In this problem, you will be working on __classifying vehicle images__ as either
 - ```test.csv```: [‘image_names’] contains just the image names for the 706 (30%) test images
 
 - ```sample_submission.csv```: [‘image_names’,’emergency_or_not­’] contains the exact format for a valid submission (1 - For Emergency Vehicle, 0 - For Non Emergency Vehicle)
+ 
+
+
+## Evaluation Metric
+- The evaluation metric for this competition is ```Accuracy```.
 
 ## Approach
 - OpenCV for reading the images and stuff.
 - Regular Transformation and data augmentation.
 - Used Fastai Densenet201 model.
-- 
 
-
-## Evaluation Metric
-- The evaluation metric for this competition is ```Accuracy```.
+## Competition Result
+Rank:  21st on private LB
+[Check LeaderBoard Ranking](https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#LeaderBoard)
