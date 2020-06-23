@@ -24,6 +24,9 @@ In this problem, you will be working on __classifying vehicle images__ as either
 
 <center><img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/08/Emgen.jpg"/></center>
 
+<center><img src="https://github.com/saikrithik/JanataHack-Computer-Vision-Hackathon/raw/master/Data_Photos.png"/></center>
+
+
 ## Data Description
 - ```train.zip```: contains 2 csvs and 1 folder containing image data
 - ```train.csv``` – [‘image_names’, ‘emergency_or_not’] contains the image name and correct class for 1646 (70%) train images.
@@ -33,6 +36,12 @@ In this problem, you will be working on __classifying vehicle images__ as either
 - ```test.csv```: [‘image_names’] contains just the image names for the 706 (30%) test images
 
 - ```sample_submission.csv```: [‘image_names’,’emergency_or_not­’] contains the exact format for a valid submission (1 - For Emergency Vehicle, 0 - For Non Emergency Vehicle)
+
+## Approach
+- OpenCV for reading the images and stuff.
+- Regular Transformation and data augmentation.
+- Used Fastai Densenet201 model.
+- 
 
 
 ## Evaluation Metric
