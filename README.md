@@ -52,5 +52,5 @@ In this problem, you will be working on __classifying vehicle images__ as either
 <img src="https://raw.githubusercontent.com/AIVenture0/JanataHack-Computer-Vision-Hackathon-21st-Rank-/master/logsheet.jpg"/>
 
 ## Competition Result
-Rank:  15th on private LB
+Rank:  9th on private LB
 [Check LeaderBoard Ranking](https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#LeaderBoard)
