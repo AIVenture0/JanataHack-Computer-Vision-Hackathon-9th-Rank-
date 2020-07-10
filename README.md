@@ -1,4 +1,4 @@
-# [JanataHack-Computer-Vision-Hackathon (9th Private Leaderboard Rank)](https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#LeaderBoard)
+# [JanataHack-Computer-Vision-Hackathon (9th Rank-Private Leaderboard)](https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#LeaderBoard)
 
 
 ___
